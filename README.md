@@ -1,6 +1,6 @@
 # minimal
 
-Super-minimal Mimosa template for your super-quick hacks.
+Super-minimal [Mimosa](https://github.com/dbashford/mimosa) template for your super-quick hacks.
 
 ## Use
 
