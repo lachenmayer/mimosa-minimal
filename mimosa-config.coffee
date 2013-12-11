@@ -200,11 +200,11 @@ exports.config = {
                                  # an enriched mimosa-config object
     # port: 3000                 # port to start server on
     # base: ''                   # base of url for the app, if altered should start with a slash
-    views:                     # configuration for the view layer of your application
+    # views:                     # configuration for the view layer of your application
       # compileWith: 'jade'      # Valid options: "jade", "hogan", "html", "ejs", "handlebars", "dust".
                                  # The compiler for your views.
       # extension: 'jade'        # extension of your server views
-      path: ''            # This is the path to project views, it can be absolute or
+      # path: 'views'            # This is the path to project views, it can be absolute or
                                  # relative. If defaultServer.enabled is true, it is relative to the
                                  # root of the project. If defaultServer.enabled is false it is
                                  # relative to the server.path setting above.
